@@ -1,0 +1,53 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/karthik.iyer/OneDrive_Slalom/NET_Training/C# Projects/Sample_Apps_testing/fba133ad-d24c-480a-98f2-6d04e1e1b40d/BankSystemConfigurationModule/BankSystemConfigurationModule.csproj",
+    "projectName": "BankSystemConfigurationModule",
+    "projectPath": "/Users/karthik.iyer/OneDrive_Slalom/NET_Training/C# Projects/Sample_Apps_testing/fba133ad-d24c-480a-98f2-6d04e1e1b40d/BankSystemConfigurationModule/BankSystemConfigurationModule.csproj",
+    "outputPath": "/Users/karthik.iyer/OneDrive_Slalom/NET_Training/C# Projects/Sample_Apps_testing/fba133ad-d24c-480a-98f2-6d04e1e1b40d/BankSystemConfigurationModule/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {},
+      "https://bwp1.jfrog.io/bwp1/api/nuget/nuget": {}
+    },
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+    }
+  }
+}
