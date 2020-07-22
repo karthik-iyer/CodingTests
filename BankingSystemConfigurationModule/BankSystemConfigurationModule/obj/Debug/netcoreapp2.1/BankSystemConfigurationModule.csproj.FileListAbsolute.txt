@@ -1,0 +1,9 @@
+/Users/karthik.iyer/OneDrive_Slalom/NET_Training/C# Projects/Sample_Apps_testing/fba133ad-d24c-480a-98f2-6d04e1e1b40d/BankSystemConfigurationModule/bin/Debug/netcoreapp2.1/BankSystemConfigurationModule.deps.json
+/Users/karthik.iyer/OneDrive_Slalom/NET_Training/C# Projects/Sample_Apps_testing/fba133ad-d24c-480a-98f2-6d04e1e1b40d/BankSystemConfigurationModule/bin/Debug/netcoreapp2.1/BankSystemConfigurationModule.dll
+/Users/karthik.iyer/OneDrive_Slalom/NET_Training/C# Projects/Sample_Apps_testing/fba133ad-d24c-480a-98f2-6d04e1e1b40d/BankSystemConfigurationModule/bin/Debug/netcoreapp2.1/BankSystemConfigurationModule.pdb
+/Users/karthik.iyer/OneDrive_Slalom/NET_Training/C# Projects/Sample_Apps_testing/fba133ad-d24c-480a-98f2-6d04e1e1b40d/BankSystemConfigurationModule/obj/Debug/netcoreapp2.1/BankSystemConfigurationModule.csprojAssemblyReference.cache
+/Users/karthik.iyer/OneDrive_Slalom/NET_Training/C# Projects/Sample_Apps_testing/fba133ad-d24c-480a-98f2-6d04e1e1b40d/BankSystemConfigurationModule/obj/Debug/netcoreapp2.1/BankSystemConfigurationModule.csproj.CoreCompileInputs.cache
+/Users/karthik.iyer/OneDrive_Slalom/NET_Training/C# Projects/Sample_Apps_testing/fba133ad-d24c-480a-98f2-6d04e1e1b40d/BankSystemConfigurationModule/obj/Debug/netcoreapp2.1/BankSystemConfigurationModule.AssemblyInfoInputs.cache
+/Users/karthik.iyer/OneDrive_Slalom/NET_Training/C# Projects/Sample_Apps_testing/fba133ad-d24c-480a-98f2-6d04e1e1b40d/BankSystemConfigurationModule/obj/Debug/netcoreapp2.1/BankSystemConfigurationModule.AssemblyInfo.cs
+/Users/karthik.iyer/OneDrive_Slalom/NET_Training/C# Projects/Sample_Apps_testing/fba133ad-d24c-480a-98f2-6d04e1e1b40d/BankSystemConfigurationModule/obj/Debug/netcoreapp2.1/BankSystemConfigurationModule.dll
+/Users/karthik.iyer/OneDrive_Slalom/NET_Training/C# Projects/Sample_Apps_testing/fba133ad-d24c-480a-98f2-6d04e1e1b40d/BankSystemConfigurationModule/obj/Debug/netcoreapp2.1/BankSystemConfigurationModule.pdb

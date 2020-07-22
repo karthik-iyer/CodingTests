@@ -1,0 +1,202 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/karthik.iyer/OneDrive_Slalom/NET_Training/C# Projects/Sample_Apps_testing/c429e53d-fb08-4670-97bb-30e6eea976b7/InternetBankingRESTfulService.Tests/InternetBankingRESTfulService.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/karthik.iyer/OneDrive_Slalom/NET_Training/C# Projects/Sample_Apps_testing/c429e53d-fb08-4670-97bb-30e6eea976b7/InternetBankingRESTfulService.Api/InternetBankingRESTfulService.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/karthik.iyer/OneDrive_Slalom/NET_Training/C# Projects/Sample_Apps_testing/c429e53d-fb08-4670-97bb-30e6eea976b7/InternetBankingRESTfulService.Api/InternetBankingRESTfulService.Api.csproj",
+        "projectName": "InternetBankingRESTfulService.Api",
+        "projectPath": "/Users/karthik.iyer/OneDrive_Slalom/NET_Training/C# Projects/Sample_Apps_testing/c429e53d-fb08-4670-97bb-30e6eea976b7/InternetBankingRESTfulService.Api/InternetBankingRESTfulService.Api.csproj",
+        "packagesPath": "/Users/karthik.iyer/.nuget/packages/",
+        "outputPath": "/Users/karthik.iyer/OneDrive_Slalom/NET_Training/C# Projects/Sample_Apps_testing/c429e53d-fb08-4670-97bb-30e6eea976b7/InternetBankingRESTfulService.Api/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/karthik.iyer/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://bwp1.jfrog.io/bwp1/api/nuget/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/karthik.iyer/OneDrive_Slalom/NET_Training/C# Projects/Sample_Apps_testing/c429e53d-fb08-4670-97bb-30e6eea976b7/InternetBankingRESTfulService.Tests/InternetBankingRESTfulService.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/karthik.iyer/OneDrive_Slalom/NET_Training/C# Projects/Sample_Apps_testing/c429e53d-fb08-4670-97bb-30e6eea976b7/InternetBankingRESTfulService.Tests/InternetBankingRESTfulService.Tests.csproj",
+        "projectName": "InternetBankingRESTfulService.Tests",
+        "projectPath": "/Users/karthik.iyer/OneDrive_Slalom/NET_Training/C# Projects/Sample_Apps_testing/c429e53d-fb08-4670-97bb-30e6eea976b7/InternetBankingRESTfulService.Tests/InternetBankingRESTfulService.Tests.csproj",
+        "packagesPath": "/Users/karthik.iyer/.nuget/packages/",
+        "outputPath": "/Users/karthik.iyer/OneDrive_Slalom/NET_Training/C# Projects/Sample_Apps_testing/c429e53d-fb08-4670-97bb-30e6eea976b7/InternetBankingRESTfulService.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/karthik.iyer/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://bwp1.jfrog.io/bwp1/api/nuget/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "/Users/karthik.iyer/OneDrive_Slalom/NET_Training/C# Projects/Sample_Apps_testing/c429e53d-fb08-4670-97bb-30e6eea976b7/InternetBankingRESTfulService/InternetBankingRESTfulService.csproj": {
+                "projectPath": "/Users/karthik.iyer/OneDrive_Slalom/NET_Training/C# Projects/Sample_Apps_testing/c429e53d-fb08-4670-97bb-30e6eea976b7/InternetBankingRESTfulService/InternetBankingRESTfulService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/karthik.iyer/OneDrive_Slalom/NET_Training/C# Projects/Sample_Apps_testing/c429e53d-fb08-4670-97bb-30e6eea976b7/InternetBankingRESTfulService/InternetBankingRESTfulService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/karthik.iyer/OneDrive_Slalom/NET_Training/C# Projects/Sample_Apps_testing/c429e53d-fb08-4670-97bb-30e6eea976b7/InternetBankingRESTfulService/InternetBankingRESTfulService.csproj",
+        "projectName": "InternetBankingRESTfulService",
+        "projectPath": "/Users/karthik.iyer/OneDrive_Slalom/NET_Training/C# Projects/Sample_Apps_testing/c429e53d-fb08-4670-97bb-30e6eea976b7/InternetBankingRESTfulService/InternetBankingRESTfulService.csproj",
+        "packagesPath": "/Users/karthik.iyer/.nuget/packages/",
+        "outputPath": "/Users/karthik.iyer/OneDrive_Slalom/NET_Training/C# Projects/Sample_Apps_testing/c429e53d-fb08-4670-97bb-30e6eea976b7/InternetBankingRESTfulService/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/karthik.iyer/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://bwp1.jfrog.io/bwp1/api/nuget/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "/Users/karthik.iyer/OneDrive_Slalom/NET_Training/C# Projects/Sample_Apps_testing/c429e53d-fb08-4670-97bb-30e6eea976b7/InternetBankingRESTfulService.Api/InternetBankingRESTfulService.Api.csproj": {
+                "projectPath": "/Users/karthik.iyer/OneDrive_Slalom/NET_Training/C# Projects/Sample_Apps_testing/c429e53d-fb08-4670-97bb-30e6eea976b7/InternetBankingRESTfulService.Api/InternetBankingRESTfulService.Api.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

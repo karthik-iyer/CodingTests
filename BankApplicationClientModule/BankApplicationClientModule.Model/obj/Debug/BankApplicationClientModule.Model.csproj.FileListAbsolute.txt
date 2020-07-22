@@ -1,0 +1,11 @@
+/Users/karthik.iyer/OneDrive_Slalom/NET_Training/C# Projects/Sample_Apps_testing/d93ffcac-921e-4a57-8ec4-4e68c1800e6d/BankApplicationClientModule.Model/bin/Debug/BankApplicationClientModule.Model.dll
+/Users/karthik.iyer/OneDrive_Slalom/NET_Training/C# Projects/Sample_Apps_testing/d93ffcac-921e-4a57-8ec4-4e68c1800e6d/BankApplicationClientModule.Model/bin/Debug/BankApplicationClientModule.Model.pdb
+/Users/karthik.iyer/OneDrive_Slalom/NET_Training/C# Projects/Sample_Apps_testing/d93ffcac-921e-4a57-8ec4-4e68c1800e6d/BankApplicationClientModule.Model/bin/Debug/EntityFramework.dll
+/Users/karthik.iyer/OneDrive_Slalom/NET_Training/C# Projects/Sample_Apps_testing/d93ffcac-921e-4a57-8ec4-4e68c1800e6d/BankApplicationClientModule.Model/bin/Debug/EntityFramework.SqlServer.dll
+/Users/karthik.iyer/OneDrive_Slalom/NET_Training/C# Projects/Sample_Apps_testing/d93ffcac-921e-4a57-8ec4-4e68c1800e6d/BankApplicationClientModule.Model/bin/Debug/System.ComponentModel.Annotations.dll
+/Users/karthik.iyer/OneDrive_Slalom/NET_Training/C# Projects/Sample_Apps_testing/d93ffcac-921e-4a57-8ec4-4e68c1800e6d/BankApplicationClientModule.Model/bin/Debug/EntityFramework.xml
+/Users/karthik.iyer/OneDrive_Slalom/NET_Training/C# Projects/Sample_Apps_testing/d93ffcac-921e-4a57-8ec4-4e68c1800e6d/BankApplicationClientModule.Model/bin/Debug/EntityFramework.SqlServer.xml
+/Users/karthik.iyer/OneDrive_Slalom/NET_Training/C# Projects/Sample_Apps_testing/d93ffcac-921e-4a57-8ec4-4e68c1800e6d/BankApplicationClientModule.Model/obj/Debug/BankApplicationClientModule.Model.csprojAssemblyReference.cache
+/Users/karthik.iyer/OneDrive_Slalom/NET_Training/C# Projects/Sample_Apps_testing/d93ffcac-921e-4a57-8ec4-4e68c1800e6d/BankApplicationClientModule.Model/obj/Debug/BankApplicationClientModule.Model.csproj.CopyComplete
+/Users/karthik.iyer/OneDrive_Slalom/NET_Training/C# Projects/Sample_Apps_testing/d93ffcac-921e-4a57-8ec4-4e68c1800e6d/BankApplicationClientModule.Model/obj/Debug/BankApplicationClientModule.Model.dll
+/Users/karthik.iyer/OneDrive_Slalom/NET_Training/C# Projects/Sample_Apps_testing/d93ffcac-921e-4a57-8ec4-4e68c1800e6d/BankApplicationClientModule.Model/obj/Debug/BankApplicationClientModule.Model.pdb
